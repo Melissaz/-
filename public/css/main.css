@@ -2,6 +2,17 @@ span{
     color:#049EAB;
 }
 
+
+
+#resume,
+#projects,
+#contact
+{
+    display: none;
+}
+
+
+
 .headname{
     color: #49515d;
     font-size: 20px;
