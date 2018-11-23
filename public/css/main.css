@@ -3,7 +3,6 @@ span{
 }
 
 
-
 #resume,
 #projects,
 #contact
@@ -194,6 +193,10 @@ body > footer {
 
 .skill{
     margin:50px;
+}
+
+.service{
+    margin:0px 50px 30px 50px;
 }
 
 /* projects css */
